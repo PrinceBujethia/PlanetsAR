@@ -1,5 +1,3 @@
-# PlanetsAR
-
 # 🌌 PlanetsAR
 
 **PlanetsAR** is an Augmented Reality application that allows users to explore detailed 3D models of planets in their real-world environment using their mobile device. The application leverages gyroscope functionality for intuitive interaction with the celestial models.
